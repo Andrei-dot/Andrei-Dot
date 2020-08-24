@@ -27,12 +27,12 @@ I like to developpe a lot of things like games or useful apps, also i'm student 
 ![C++](https://img.shields.io/badge/-C-red?style=for-the-badge&logo=c++)
 
 #### Some of the technologies I have already worked with
-![Git](https://img.shields.io/badge/-Git-363636?style=for-the-badge&logo=git&logoColor=E05D44)
-![GitHub](https://img.shields.io/badge/-GitHub-363636?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-363636?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-363636?style=for-the-badge&logo=node.js&logoColor=339933)
-![VueJS](https://img.shields.io/badge/-VueJS-363636?style=for-the-badge&logo=vue.js&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/-Docker-363636?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-E05D44?style=for-the-badge&logo=git&logoColor=E05D44)
+![GitHub](https://img.shields.io/badge/-GitHub-E05D44?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-E05D44?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-E05D44?style=for-the-badge&logo=node.js&logoColor=339933)
+![VueJS](https://img.shields.io/badge/-VueJS-E05D44?style=for-the-badge&logo=vue.js&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/-Docker-E05D44?style=for-the-badge&logo=docker)
 _And more ..._
 
 #### My software 
