@@ -1,7 +1,5 @@
 ## 👋 Who I am?
 
-https://lh3.googleusercontent.com/proxy/fiOQgGduy3rJw_VI2fR1ee-4QbraY8nwAGNnTja4aORk3IP_DV-XgVkr6MdBk2nc5gigKnSG9186gN2NWqMIJsD4TY0Q6A
-
 I'm a French-Russian developper who lives in France.
 
 I like to developpe a lot of things like games or useful apps, also i'm student in cyber-security.
