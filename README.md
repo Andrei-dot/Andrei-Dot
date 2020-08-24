@@ -27,7 +27,7 @@ I like to developpe a lot of things like games or useful apps, also i'm student 
 ![C++](https://img.shields.io/badge/-C-red?style=for-the-badge&logo=c++)
 
 #### Some of the technologies I have already worked with
-![Git](https://img.shields.io/badge/-Git-E05D44?style=for-the-badge&logo=git&logoColor=E05D44)
+![Git](https://img.shields.io/badge/-Git-E05D44?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-E05D44?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-E05D44?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-E05D44?style=for-the-badge&logo=node.js&logoColor=339933)
@@ -37,9 +37,9 @@ _And more ..._
 
 #### My software 
 <p>
-  <img src="https://img.shields.io/badge/-IntelliJ-0d0d0d?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-VsCode-0d0d0d?style=for-the-badge&logo=Visual-Studio-Code&logoColor=0083D0" />
-  <img src="https://img.shields.io/badge/-JetBrains IDE-0d0d0d?style=for-the-badge&logo=Jetbrains" />
+  <img src="https://img.shields.io/badge/-Eclipse-E05D44?style=for-the-badge&logo=Eclipse&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-VsCode-E05D44?style=for-the-badge&logo=Visual-Studio-Code&logoColor=0083D0" />
+  <img src="https://img.shields.io/badge/-JetBrains IDE-E05D44?style=for-the-badge&logo=Jetbrains" />
 </p>
 
 ___
