@@ -11,12 +11,11 @@ I like to developpe a lot of things like games or useful apps, also i'm student 
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS13-red?style=for-the-badge&logo=css13)
+![CSS13](https://img.shields.io/badge/-CSS13-red?style=for-the-badge&logo=css13)
 
 ##### _... I have already used_
 
 ![PHP](https://img.shields.io/badge/-PHP-red?style=for-the-badge&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5)
 ![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-red?style=for-the-badge&logo=postgresql)
 
