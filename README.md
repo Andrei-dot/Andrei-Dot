@@ -11,7 +11,7 @@ I like to developpe a lot of things like games or useful apps, also i'm student 
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-css-red?style=for-the-badge&logo=css)
+![CSS](https://img.shields.io/badge/-CSS13-red?style=for-the-badge&logo=css13)
 
 ##### _... I have already used_
 
