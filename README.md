@@ -30,7 +30,6 @@ I like to developpe a lot of things like games or useful apps, also i'm student 
 ![Linux](https://img.shields.io/badge/-Linux-E05D44?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-E05D44?style=for-the-badge&logo=node.js&logoColor=339933)
 ![VueJS](https://img.shields.io/badge/-VueJS-E05D44?style=for-the-badge&logo=vue.js&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/-Docker-E05D44?style=for-the-badge&logo=docker)
 _And more ..._
 
 #### My software 
