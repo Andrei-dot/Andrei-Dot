@@ -22,7 +22,7 @@ I like to developpe a lot of things like games or useful apps, also i'm student 
 
 ##### _... I'm learning_
 ![C](https://img.shields.io/badge/-C-red?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-C++-red?style=for-the-badge&logo=cpp)
+![C++](https://img.shields.io/badge/-cpp-red?style=for-the-badge&logo=cpp)
 
 #### Some of the technologies I have already worked with
 ![Git](https://img.shields.io/badge/-Git-E05D44?style=for-the-badge&logo=git&logoColor=F05032)
