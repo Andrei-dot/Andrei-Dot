@@ -8,7 +8,7 @@ I like to developpe a lot of things like games or useful apps, also i'm student 
 
 ### Languages...
 
-##### _... I mastery _
+##### _... I mastery_
 
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=for-the-badge&logo=javascript)
@@ -27,7 +27,7 @@ I like to developpe a lot of things like games or useful apps, also i'm student 
 ![C++](https://img.shields.io/badge/-C-red?style=for-the-badge&logo=c++)
 
 #### Some of the technologies I have already worked with
-![Git](https://img.shields.io/badge/-Git-363636?style=for-the-badge&logo=git&logoColor=F05032)
+![Git](https://img.shields.io/badge/-Git-363636?style=for-the-badge&logo=git&logoColor=E05D44)
 ![GitHub](https://img.shields.io/badge/-GitHub-363636?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-363636?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-363636?style=for-the-badge&logo=node.js&logoColor=339933)
