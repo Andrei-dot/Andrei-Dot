@@ -6,7 +6,7 @@ I'm a French-Russian developper who lives in France.
 
 I like to developpe a lot of things like games or useful apps, also i'm student in cyber-security.
 
-### Languages...
+### Languages ;
 
 ##### _... I mastery_
 
@@ -39,7 +39,6 @@ _And more ..._
 <p>
   <img src="https://img.shields.io/badge/-Eclipse-E05D44?style=for-the-badge&logo=Eclipse&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-VsCode-E05D44?style=for-the-badge&logo=Visual-Studio-Code&logoColor=0083D0" />
-  <img src="https://img.shields.io/badge/-JetBrains IDE-E05D44?style=for-the-badge&logo=Jetbrains" />
 </p>
 
 ___
