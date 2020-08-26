@@ -6,7 +6,7 @@ I like to develop a lot of things like games or useful apps, i also study cyber-
 
 ### Languages ;
 
-##### _... I mastery_
+##### _... I master_
 
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=for-the-badge&logo=javascript)
