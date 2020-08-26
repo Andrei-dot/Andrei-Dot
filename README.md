@@ -2,7 +2,7 @@
 
 I'm a French-Russian developer who lives in France.
 
-I like to develop a lot of things like games or useful apps, also i'm student in cyber-security.
+I like to develop a lot of things like games or useful apps, i also study cyber-security.
 
 ### Languages ;
 
