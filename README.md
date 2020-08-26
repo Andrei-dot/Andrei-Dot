@@ -31,7 +31,7 @@ I like to develop a lot of things like games or useful apps, i also study cyber-
 ![VueJS](https://img.shields.io/badge/-VueJS-E05D44?style=for-the-badge&logo=vue.js&logoColor=61DAFB)
 _And more ..._
 
-#### My software 
+#### My softwares
 <p>
   <img src="https://img.shields.io/badge/-Eclipse-E05D44?style=for-the-badge&logo=Eclipse&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-VsCode-E05D44?style=for-the-badge&logo=Visual-Studio-Code&logoColor=0083D0" />
