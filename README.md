@@ -42,6 +42,6 @@ ___
 <h3 align="center">You can contact me on:</h3>
 
 <p align="center">
-	akalioushta@gmail.com
+	soon@gmail.com
   </a>
 </p>
