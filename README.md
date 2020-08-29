@@ -42,6 +42,6 @@ ___
 <h3 align="center">You can contact me on:</h3>
 
 <p align="center">
-	soon@gmail.com
+	andreikalachnik@gmail.com
   </a>
 </p>
