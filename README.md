@@ -9,19 +9,19 @@ I like to develop a lot of things like games or useful apps, i also study cyber-
 ##### _... I master_
 
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5)
-![CSS13](https://img.shields.io/badge/-CSS13-red?style=for-the-badge&logo=css13)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+![CSS13](https://img.shields.io/badge/-CSS13-black?style=for-the-badge&logo=css13)
 
 ##### _... I have already used_
 
-![PHP](https://img.shields.io/badge/-PHP-red?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-red?style=for-the-badge&logo=postgresql)
+![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql)
 
 ##### _... I'm learning_
-![C](https://img.shields.io/badge/-C-red?style=for-the-badge&logo=c)
-![C#](https://img.shields.io/badge/-csharp-red?style=for-the-badge&logo=c#)
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
+![C#](https://img.shields.io/badge/-csharp-black?style=for-the-badge&logo=c#)
 
 #### Some of the technologies I have already worked with
 ![Git](https://img.shields.io/badge/-Git-E05D44?style=for-the-badge&logo=git&logoColor=F05032)
