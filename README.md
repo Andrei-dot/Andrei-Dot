@@ -24,7 +24,7 @@ I like to develop a lot of things like games or useful apps, i also study cyber-
 ![C#](https://img.shields.io/badge/-csharp-black?style=for-the-badge&logo=c#)
 
 #### Some of the technologies I have already worked with
-![Git](https://img.shields.io/badge/-Git-E05D44?style=for-the-badge&logo=git&logoColor=F05032)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-E05D44?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-E05D44?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-E05D44?style=for-the-badge&logo=node.js&logoColor=339933)
