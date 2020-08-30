@@ -25,16 +25,16 @@ I like to develop a lot of things like games or useful apps, i also study cyber-
 
 #### Some of the technologies I have already worked with
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-E05D44?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-E05D44?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-E05D44?style=for-the-badge&logo=node.js&logoColor=339933)
-![VueJS](https://img.shields.io/badge/-VueJS-E05D44?style=for-the-badge&logo=vue.js&logoColor=61DAFB)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js&logoColor=339933)
+![VueJS](https://img.shields.io/badge/-VueJS-black?style=for-the-badge&logo=vue.js&logoColor=61DAFB)
 _And more ..._
 
 #### My softwares
 <p>
-  <img src="https://img.shields.io/badge/-Eclipse-E05D44?style=for-the-badge&logo=Eclipse&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-VsCode-E05D44?style=for-the-badge&logo=Visual-Studio-Code&logoColor=0083D0" />
+  <img src="https://img.shields.io/badge/-Eclipse-black?style=for-the-badge&logo=Eclipse&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-VsCode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=0083D0" />
 </p>
 
 ___
