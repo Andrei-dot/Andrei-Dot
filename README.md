@@ -12,6 +12,7 @@ I like to develop a lot of things like games or useful apps, i also study cyber-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
 ![CSS13](https://img.shields.io/badge/-CSS13-black?style=for-the-badge&logo=css13)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js&logoColor=339933)
 
 ##### _... I have already used_
 
@@ -27,7 +28,6 @@ I like to develop a lot of things like games or useful apps, i also study cyber-
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js&logoColor=339933)
 ![VueJS](https://img.shields.io/badge/-VueJS-black?style=for-the-badge&logo=vue.js&logoColor=61DAFB)
 _And more ..._
 
