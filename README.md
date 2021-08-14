@@ -29,6 +29,7 @@ I like to develop a lot of things like games or useful apps, i also study cyber-
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![VueJS](https://img.shields.io/badge/-VueJS-black?style=for-the-badge&logo=vue.js&logoColor=61DAFB)
+![NPM](https://img.shields.io/badge/-NPM-black?style=for-the-badge&logo=npm)
 _And more ..._
 
 #### My softwares
