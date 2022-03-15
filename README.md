@@ -34,8 +34,9 @@ _And more ..._
 
 #### My softwares
 <p>
-  <img src="https://img.shields.io/badge/-Eclipse-black?style=for-the-badge&logo=Eclipse&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-VsCode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=0083D0" />
+  <img src="https://img.shields.io/badge/-Eclipse-black?style=for-the-badge&logo=Eclipse&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/-VsCode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=0083D0"/>
+  <img src="https://img.shields.io/badge/-VsCode-reed?style=for-the-badge&logo=Visual-Studio-Code&logoColor=9400D3"/>
 </p>
 
 ___
