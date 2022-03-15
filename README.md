@@ -11,7 +11,7 @@ I like to develop a lot of things like games or useful apps, i also study cyber-
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
-![CSS13](https://img.shields.io/badge/-CSS13-black?style=for-the-badge&logo=css13)
+![CSS13](https://img.shields.io/badge/-CSS13-black?style=for-the-badge&logo=css3)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js&logoColor=339933)
 
 ##### _... I have already used_
