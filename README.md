@@ -21,7 +21,7 @@ I like to develop a lot of things like games or useful apps, i also study cyber-
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql)
 
 ##### _... I'm learning_
-![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
+![C](https://img.shields.io/badge/-black?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/-++-black?style=for-the-badge&logo=c)
 
 #### Some of the technologies I have already worked with
