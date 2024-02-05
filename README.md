@@ -6,7 +6,7 @@
 </h1>
 
 # 😎 Abt me ! 
-Hello ! I'm a french self-teached dev. 
+Hello ! I'm a french self-teached dev. <br>
 I develop much things on my free-time, especially community servers on games like Garry's Mod or Minecraft, but also carrying some freelance missions for local companies of my city.
 
 # 🥇 My skills 
