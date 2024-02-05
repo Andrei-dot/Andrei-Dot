@@ -6,7 +6,7 @@
 </h1>
 
 # 😎 Abt me ! 
-Hello ! I'm a french self-teached dev, who plans to enter at School 42 (Xavier Niel). 
+Hello ! I'm a french self-teached dev. 
 I develop much things on my free-time, especially community servers on games like Garry's Mod or Minecraft, but also carrying some freelance missions for local companies of my city.
 
 # 🥇 My skills 
